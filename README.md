@@ -1,4 +1,4 @@
-# vuex-lesson
+# simple-vuex
 
 ## Project setup
 ```
